@@ -1,13 +1,13 @@
 pre-alpha version system: PA.big-change.small-change
 
-dev-stage: (0:alpha,1:beta,2:rc,3:gold).(x)major.minor.revision
+dev-stage: (0:alpha,1:beta,2:rc,3:gold).[x]major.minor.revision
 					 |    |     |     |
 					 |    |     |     +----bugfixes
 					 |    |     +----------added features
 					 |    +----------------stable version
 					 +---------------------branch first letter
 
-major version internal name: [adjective (alphabetical)] [alliterative animal name]
+major version internal name: [adjective] [alliterative organism name]
 
 -this version system sucks we need to improve this
 -git describe will be implemented in the future
@@ -17,3 +17,4 @@ vPA.01.00
 
 -Created Basic Framework
 -Added Keypress Detection
+--------------------------------------
