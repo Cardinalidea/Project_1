@@ -1,10 +1,10 @@
 pre-alpha version system: PA.big-change.small-change
 
 master branch versions: (0:alpha,1:beta,2:rc,3:gold).major.minor.revision
-				      	      |     |     |
-					      |     |     +----bugfixes
-					      |     +----------added features
-					      +----------------stable version
+					      	      |     |     |
+						      |     |     +----bugfixes
+						      |     +----------added features
+						      +----------------stable version
 					 
 
 major version internal name: [adjective] [alliterative organism name]
